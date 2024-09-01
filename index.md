@@ -31,3 +31,8 @@ txt = "Python - some text"
 num = 4
 boolean = False
 ```
+
+# Task List
+- [ ] Clean bedroom
+- [ ] Learn a new skill
+- [ ] Go to gym
